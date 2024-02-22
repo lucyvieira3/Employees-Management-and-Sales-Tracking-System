@@ -1,1 +1,1 @@
-# Employees-Management-and-Sales-Tracking-System
+# Employee Management and Sales Tracking System
