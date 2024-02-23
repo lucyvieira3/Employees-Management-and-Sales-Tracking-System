@@ -31,7 +31,8 @@ APPROACH AND ANALYSIS
 
 1. I started this SQL script by creating each table as: employee, branch, client, works with and branch supplier.
 2. I manually inserted the data of each employee and their clients on their respective tables.
-3. The goal of this table was to locate information of this fictional company with ease, so I proceeded with queries to find the following answers such as: the total employee count, average salary, branch managers per each branch, total sales per employee, and detailed client data.
+3. The goal of this table was to easily locate important data from the company, so I proceeded with queries to find the following answers such as: the total employee count, average salary, branch managers per each branch, total sales per employee, and detailed client data.
+4. I finished the project by answering gathering all of the previous information into organized tables and displayed as a dashboard in Tableau for HR purposes.
 
 TECHNICAL CHALLENGES
 
