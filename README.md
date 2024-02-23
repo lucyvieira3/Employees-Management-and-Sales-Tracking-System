@@ -32,7 +32,7 @@ APPROACH AND ANALYSIS
 1. I started this SQL script by creating each table as: employee, branch, client, works with and branch supplier.
 2. I manually inserted the data of each employee and their clients on their respective tables.
 3. The goal of this table was to easily locate important data from the company, so I proceeded with queries to find the following answers such as: the total employee count, average salary, branch managers per each branch, total sales per employee, and detailed client data.
-4. I finished the project by answering gathering all of the previous information into organized tables and displayed as a dashboard in Tableau for HR purposes.
+4. I gathered all of the previous information into organized workbooks and exported the new cvs data to Tableau. In Tableau I created a relationship between employee's tables and displayed a final dashboard on Tableau for HR purposes.
 
 TECHNICAL CHALLENGES
 
